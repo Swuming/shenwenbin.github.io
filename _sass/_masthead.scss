@@ -62,11 +62,18 @@
 }
 
 /* Shift navigation links right without changing layout */
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 10px) {
   .masthead .greedy-nav .visible-links > li:not(:first-child) {
     position: relative;
     left: 150px;
   }
 }
 
+/* Move Homepage slightly to the left */
+@media screen and (min-width: 1200px) {
+  .masthead .greedy-nav .visible-links > li:first-child {
+    position: relative;
+    left: -50px;
+  }
+}
 
