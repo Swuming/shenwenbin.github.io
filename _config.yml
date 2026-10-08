@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenbin Shen | Academic Homepage"
-description              : "Wenbin Shen's academic homepage. Undergraduate student at Nanjing University of Science and Technology, researching multimodal fake news detection, AI-generated content detection, and multimodal reasoning."
+description              : "Undergraduate Researcher at NJUST"
 repository               : "Swuming/shenwenbin.github.io"
 url                      : "https://swuming.github.io"
 baseurl                  : "/shenwenbin.github.io"
