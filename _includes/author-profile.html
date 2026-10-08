@@ -23,7 +23,16 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+        <li style="width: 100%; white-space: normal;">
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
+          <span style="
+            display: inline-block;
+            max-width: calc(100% - 2em);
+            white-space: normal;
+            overflow-wrap: anywhere;
+            vertical-align: top;
+          ">{{ author.employer }}</span>
+        </li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
