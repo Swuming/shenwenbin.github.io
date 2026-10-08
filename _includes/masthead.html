@@ -15,9 +15,12 @@
               Homepage
             </a>
           </li>
-
+          
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item">
+            <li class="masthead__menu-item"
+                {% if forloop.first %}
+                  style="padding-left: 200px;"
+                {% endif %}>
               <a href="{{ site.baseurl }}/{{ link.url | remove_first: '/' }}" target="_self">
                 {{ link.title }}
               </a>
