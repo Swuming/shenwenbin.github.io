@@ -19,7 +19,7 @@
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"
                 {% if forloop.first %}
-                  style="padding-left: 200px;"
+                  style="margin-left: 175px;"
                 {% endif %}>
               <a href="{{ site.baseurl }}/{{ link.url | remove_first: '/' }}" target="_self">
                 {{ link.title }}
