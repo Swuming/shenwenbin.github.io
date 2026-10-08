@@ -109,31 +109,3 @@ h1:before, .anchor:before {
 }
 
 
-/* ==========================================
-   FIX: Navigation hover underline
-   ========================================== */
-
-@media screen and (min-width: 1024px) {
-
-  /* Keep the link width equal to its text */
-  .masthead .greedy-nav .visible-links > li > a {
-    display: inline-block !important;
-    width: max-content !important;
-  }
-
-  /* Remove the original full-width underline */
-  .masthead .greedy-nav .visible-links > li > a::before {
-    content: none !important;
-    display: none !important;
-  }
-
-  /* Draw a new underline under the text only */
-  .masthead .greedy-nav .visible-links > li > a:hover,
-  .masthead .greedy-nav .visible-links > li > a:focus-visible {
-    text-decoration: underline !important;
-    text-decoration-color: #b9bdc1 !important;
-    text-decoration-thickness: 3px;
-    text-underline-offset: 8px;
-  }
-}
-
