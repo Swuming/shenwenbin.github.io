@@ -61,4 +61,11 @@
   }
 }
 
+/* Align secondary navigation with main content */
+@include breakpoint($large) {
+  .masthead__menu-home-item + .masthead__menu-item {
+    margin-left: clamp(40px, 10vw, 175px);
+  }
+}
+
 
