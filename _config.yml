@@ -23,10 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 
 # Site Author
+
 author:
   name             : "Wenbin Shen"
   avatar           : "images/profile.png"
-  bio              : "Undergraduate Student at Nanjing University of Science and Technology"
+  bio              : "Undergraduate Researcher"
   location         : "Nanjing, China"
   employer         : "Nanjing University of Science and Technology"
   email            : "shenwenbin@njust.edu.cn"
