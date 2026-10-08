@@ -61,4 +61,12 @@
   }
 }
 
+/* Shift navigation links right without changing layout */
+@media screen and (min-width: 1200px) {
+  .masthead .greedy-nav .visible-links > li:not(:first-child) {
+    position: relative;
+    left: 165px;
+  }
+}
+
 
