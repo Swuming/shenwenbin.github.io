@@ -61,10 +61,11 @@
   }
 }
 
-/* Move secondary navigation to align with page content */
-@include breakpoint($large) {
-  .greedy-nav .visible-links > li:nth-child(2) {
-    padding-left: 175px;
+/* Align About Me and subsequent items with page content */
+@media screen and (min-width: 1024px) {
+  .masthead .greedy-nav .visible-links
+  > li:nth-child(2) > a {
+    padding-left: 200px !important;
   }
 }
 
