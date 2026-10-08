@@ -20,6 +20,7 @@ redirect_from:
 
 # 👤 About Me
 I am Wenbin Shen, an undergraduate student majoring in Data Science and Big Data Technology at Nanjing University of Science and Technology (NJUST), China. I expect to receive my B.E. degree in June 2027.
+
 My research interests include Trustworthy AI Agents, Computer Vision, and Data Analytics. My recent work focuses on Multimodal Fake News Detection, AI-Generated Content (AIGC) Detection, and Multimodal Reasoning, with an emphasis on improving the reliability and robustness of AI systems in complex information environments.
 
 
@@ -29,6 +30,7 @@ My research interests include Trustworthy AI Agents, Computer Vision, and Data A
 
 # 📝 Publications 
 
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -36,14 +38,20 @@ My research interests include Trustworthy AI Agents, Computer Vision, and Data A
       <img src='images/RAEGNet.png' alt="RAEGNet Framework" width="100%">
     </div>
   </div>
+
   <div class='paper-box-text' markdown="1">
+
 [RAEGNet: Relation-Aware Evidence Graph Network for Harm-Aware Multimodal Fake News Detection](https://arxiv.org/abs/2609.36902)
+
 **Wenbin Shen**, Guoxuan Qin, Guangxu Yao, Baodong Wang, Yuanbo Rui, Zhongjie Ba, Zhichao Lian
+
 **arXiv preprint**, 2026
-[**Paper**](https://arxiv.org/pdf/2609.36902)
+
 - We propose an Event-Level Evidence Retrieval Framework (ELERF) and a Relation-Aware Evidence Graph Network (RAEGNet) to jointly model news authenticity and potential harm through external evidence and relational reasoning.
+
   </div>
 </div>
+
 
 
 
