@@ -21,11 +21,11 @@ redirect_from:
 # 👤 About Me
 I am Wenbin Shen, an undergraduate student majoring in Data Science and Big Data Technology at Nanjing University of Science and Technology (NJUST), China. I expect to receive my B.E. degree in June 2027.
 
-My research interests include Trustworthy AI Agents, Computer Vision, and Data Analytics. My recent work focuses on Multimodal Fake News Detection, AI-Generated Content (AIGC) Detection, and Multimodal Reasoning, with an emphasis on improving the reliability and robustness of AI systems in complex information environments.
+My research interests include Trustworthy AI Agents, Computer Vision, and Data Analytics. My recent work focuses on Multimodal Fake News Detection, AI-Generated Content Detection, and Multimodal Reasoning, with an emphasis on improving the reliability and robustness of AI systems in complex information environments.
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 Our paper entitled "Old Meets New: Empowering Fake News Detection Frameworks with ML and MLLM” was accepted by PRCV (CCF-C). 
+- *2026.07*: &nbsp;🎉🎉 Our paper entitled "Old Meets New: Empowering Fake News Detection Frameworks with ML and MLLM” was accepted by PRCV (CCF-C)！ 
 
 
 # 📝 Publications 
@@ -83,10 +83,14 @@ Old Meets New: Empowering Fake News Detection Frameworks with ML and MLLM
 
 
 # 🥇 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11* — **National First Prize**, "Challenge Cup" National College Student Competition, AI+ Special Track.
+- *2025.10* — **Provincial First Prize**, National College Student Mathematical Modeling Contest.
+- *2025.08* — **Provincial First Prize**, National College Student Statistical Modeling Competition.
+- *2025.06* — **National Second Prize**, MathorCup College Mathematical Modeling Challenge.
+- *2025.06* — **National Second Prize**, "Teddy Cup" National Data Mining Challenge.
+- *2025.05* — **Meritorious Winner**, Mathematical Contest in Modeling (MCM).
+- *2024.11* — **National First Prize**, National College Student Big Data Analysis Technology Skills Competition.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Sep. 2023 – Jun. 2027 (Expected)*, Nanjing University of Science and Technology (NJUST), School of Cyber Science and Engineering, B.E. in Data Science and Big Data Technology.
 
