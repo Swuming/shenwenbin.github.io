@@ -1,3 +1,5 @@
+
+# Main navigation
 main:
   - title: "About Me"
     url: "#about-me"
@@ -13,9 +15,3 @@ main:
 
   - title: "Educations"
     url: "#-educations"
-
-  - title: "Invited Talks"
-    url: "#-invited-talks"
-
-  - title: "Internships"
-    url: "#-internships"
