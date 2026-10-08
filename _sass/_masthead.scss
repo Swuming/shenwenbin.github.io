@@ -62,37 +62,3 @@
 }
 
 
-/* Custom desktop navigation alignment */
-@media screen and (min-width: 1024px) {
-
-  .masthead .greedy-nav .visible-links {
-    display: flex !important;
-    align-items: center;
-  }
-
-  .masthead .greedy-nav .visible-links > li {
-    display: block !important;
-    flex: 0 0 auto;
-    padding: 0 !important;
-  }
-
-  /* Keep Homepage in place */
-  .masthead .greedy-nav .visible-links > li:first-child {
-    margin-left: 0 !important;
-  }
-
-  /* Move About Me and following links right */
-  .masthead .greedy-nav .visible-links > li:nth-child(2) {
-    margin-left: 200px !important;
-  }
-
-  /* Restrict hover underline to actual link width */
-  .masthead .greedy-nav .visible-links > li > a {
-    display: inline-block !important;
-    width: auto !important;
-    padding: 0.5rem 0 !important;
-  }
-}
-
-
-
