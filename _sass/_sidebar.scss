@@ -269,3 +269,32 @@
     display: none;
   }
 }
+
+/* Prevent long affiliation names from overflowing the sidebar */
+@include breakpoint($large) {
+  .sidebar .author__urls-wrapper {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .sidebar .author__urls {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .sidebar .author__urls li {
+    max-width: 100%;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+
+  .sidebar .author__urls li a {
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+}
+
+
+
+
