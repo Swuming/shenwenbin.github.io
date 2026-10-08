@@ -61,11 +61,12 @@
   }
 }
 
-/* Align secondary navigation with main content */
+/* Move secondary navigation to align with page content */
 @include breakpoint($large) {
-  .masthead__menu-home-item + .masthead__menu-item {
-    margin-left: clamp(40px, 10vw, 175px);
+  .greedy-nav .visible-links > li:nth-child(2) {
+    padding-left: 175px;
   }
 }
+
 
 
