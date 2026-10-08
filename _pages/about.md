@@ -56,7 +56,30 @@ My research interests include Trustworthy AI Agents, Computer Vision, and Data A
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/GILA.png' alt="GILA Framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+Beyond the Last Layer: Global Inter-Layer Aggregation for AI-Generated Image Detection
+
+**Wenbin Shen**, Zhichao Lian
+
+- We propose GILA, a global inter-layer aggregation framework that combines inter-layer self-attention and adaptive feature aggregation to improve AI-generated image detection and cross-dataset generalization.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2026</div><img src='images/M2.png' alt="M2 Framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Old Meets New: Empowering Fake News Detection Frameworks with ML and MLLM
+
+**Wenbin Shen**, Zhichao Lian
+
+- We propose M², a plug-and-play framework integrating MLLM-derived structured features with machine learning for decision correction, improving multimodal fake news detection without retraining base models.
+
+</div>
+</div>
 
 
 # 🥇 Honors and Awards
