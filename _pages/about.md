@@ -37,12 +37,23 @@ My research interests include Trustworthy AI Agents, Computer Vision, and Data A
 
 **Wenbin Shen**, Guoxuan Qin, Guangxu Yao, Baodong Wang, Yuanbo Rui, Zhongjie Ba, Zhichao Lian
 
-- We propose an Event-Level Evidence Retrieval Framework (ELERF) and a Relation-Aware Evidence Graph Network (RAEGNet) to jointly model news authenticity and potential harm through external evidence and relational reasoning.
+- We propose an Event-Level Evidence Retrieval Framework (ELERF) and a Relation-Aware Evidence Graph Network (RAEGNet) to model news authenticity and harm through external evidence and relational reasoning.
 
 </div>
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/Weibo26.png' alt="Weibo26 Framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rethinking Multimodal Fake News Detection in the Generative AI Era](https://arxiv.org/abs/2609.36850)
+
+**Wenbin Shen**, Guoxuan Qin, Guangxu Yao, Baodong Wang, Yuanbo Rui, Zhichao Lian
+
+- We construct Weibo26, a multimodal fake news dataset for generative-content scenarios, and propose a Generativity-Aware Hierarchical Reasoning (GAHR) framework integrating global judgment and local correction.
+
+</div>
+</div>
 
 
 
