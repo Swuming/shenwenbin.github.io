@@ -61,5 +61,25 @@
   }
 }
 
+/* Desktop navigation alignment */
+@media screen and (min-width: 1024px) {
+  .masthead .greedy-nav .visible-links {
+    display: flex;
+    align-items: center;
+  }
+
+  .masthead .greedy-nav .visible-links > li {
+    display: block;
+    flex: 0 0 auto;
+  }
+
+  .masthead .greedy-nav .visible-links > li:nth-child(2) {
+    margin-left: 200px;
+  }
+
+  .masthead .greedy-nav .visible-links > li > a {
+    display: block;
+  }
+}
 
 
