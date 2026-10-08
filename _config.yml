@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wenbin Shen | Academic Homepage"
+title                    : "Wenbin Shen | Homepage"
 description              : "Undergraduate Researcher at NJUST"
 repository               : "Swuming/shenwenbin.github.io"
 url                      : "https://swuming.github.io"
@@ -27,7 +27,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenbin Shen"
   avatar           : "images/profile.png"
-  bio              : "Undergraduate Researcher"
+  bio              : # "Undergraduate Researcher"
   location         : "Nanjing, China"
   employer         : "Nanjing University of Science and Technology"
   email            : "shenwenbin@njust.edu.cn"
