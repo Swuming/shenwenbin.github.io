@@ -25,8 +25,8 @@ My research interests include Trustworthy AI Agents, Computer Vision, and Data A
 
 
 # 🔥 News
-- *2026.10* &nbsp;🎉🎉 Our paper entitled "Beyond the Last Layer: Global Inter-Layer Aggregation for AI-Generated Image Detection” was accepted by CSCloud 2026 (CCF-C)！
-- *2026.07* &nbsp;🎉🎉 Our paper entitled "Old Meets New: Empowering Fake News Detection Frameworks with ML and MLLM” was accepted by PRCV 2026 (CCF-C)！ 
+- *2026.10* &nbsp;🎉🎉 Our paper entitled "Beyond the Last Layer: Global Inter-Layer Aggregation for AI-Generated Image Detection” was accepted by **CSCloud 2026** (CCF-C)！
+- *2026.07* &nbsp;🎉🎉 Our paper entitled "Old Meets New: Empowering Fake News Detection Frameworks with ML and MLLM” was accepted by **PRCV 2026** (CCF-C)！ 
 
 
 # 📝 Publications 
